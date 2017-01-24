@@ -1,4 +1,4 @@
-build a basic blog with codeigniter.
+## BUILD A BASIC BLOG WITH CODEIGNITER ##
 
-project source : 
-https://www.sebastienadam.be/connaissances/cours/realisez_votre_blog_avec_codeigniter_3.php
+> tutorial and project source : 
+> [CLICK HERE](https://www.sebastienadam.be/connaissances/cours/realisez_votre_blog_avec_codeigniter_3.php)
